@@ -155,7 +155,7 @@ REACT_APP_BACKEND_URL=https://your-backend-domain.com
 Then rebuild:
 ```bash
 cd /app/frontend
-yarn build
+npm run build
 ```
 
 ---
