@@ -1,0 +1,107 @@
+========================================
+WORKDAY INSIDER TRACKER - UPLOAD GUIDE
+Configured for: /workday subdirectory
+========================================
+
+YOU HAVE TWO OPTIONS:
+
+========================================
+OPTION 1: UPLOAD ALREADY-BUILT FILES (EASIEST - NO NPM NEEDED!)
+========================================
+
+Download: workday-BUILT-ready-to-upload.zip (582 KB)
+
+Steps:
+1. Extract workday-BUILT-ready-to-upload.zip
+2. Inside you'll find a "build" folder
+3. FTP to your server and create a folder called "workday"
+4. Upload ALL contents from inside the "build" folder to your "workday" folder:
+
+   Your FTP should look like:
+   
+   /public_html/workday/
+   ├── index.html
+   ├── asset-manifest.json
+   └── static/
+       ├── css/
+       │   └── main.dc23b2c2.css
+       └── js/
+           └── main.d207aca2.js
+
+5. Create a file called ".htaccess" in the workday folder
+6. Copy this content into .htaccess:
+
+---START COPY---
+<IfModule mod_rewrite.c>
+  RewriteEngine On
+  RewriteBase /workday/
+  RewriteRule ^index\.html$ - [L]
+  RewriteCond %{REQUEST_FILENAME} !-f
+  RewriteCond %{REQUEST_FILENAME} !-d
+  RewriteCond %{REQUEST_FILENAME} !-l
+  RewriteRule . /workday/index.html [L]
+</IfModule>
+---END COPY---
+
+7. Visit: https://yoursite.com/workday/
+
+DONE! No npm install needed!
+
+========================================
+OPTION 2: BUILD IT YOURSELF LOCALLY
+========================================
+
+Download: workday-tracker-source.zip (260 KB)
+
+Steps:
+1. Extract workday-tracker-source.zip
+2. Open Command Prompt:
+   
+   cd C:\path\to\extracted\frontend
+   npm install
+   npm run build
+
+3. Follow upload steps from Option 1 above (upload the build folder)
+
+========================================
+IMPORTANT NOTES:
+========================================
+
+✓ The app is already configured for /workday subdirectory
+✓ Backend is still pointing to Emergent's server (will work for testing)
+✓ If you want to host the backend yourself, see DEPLOYMENT_GUIDE.md
+
+Current Backend URL: https://executive-selloff.preview.emergentagent.com/api
+
+To change it:
+- Edit frontend/.env file
+- Change REACT_APP_BACKEND_URL to your backend
+- Rebuild with npm run build
+
+========================================
+TROUBLESHOOTING:
+========================================
+
+Problem: CSS/JS not loading (404 errors)
+Solution: Make sure you uploaded to /workday/ folder and added .htaccess
+
+Problem: Blank page
+Solution: Check browser console for errors. Ensure .htaccess is uploaded
+
+Problem: "Cannot GET /workday"
+Solution: Make sure .htaccess has correct RewriteBase /workday/
+
+========================================
+FILES AVAILABLE FOR DOWNLOAD:
+========================================
+
+1. workday-BUILT-ready-to-upload.zip (582 KB)
+   → Already built, just extract and upload
+
+2. workday-tracker-source.zip (260 KB)
+   → Source code to build yourself
+
+3. .htaccess-for-workday-subdirectory
+   → Copy this into your /workday/ folder as ".htaccess"
+
+========================================
