@@ -179,7 +179,7 @@ Simply click the **Deploy** button in the Emergent interface:
 **Frontend on Vercel:**
 1. Push code to GitHub
 2. Import to Vercel
-3. Build command: `cd frontend && yarn build`
+3. Build command: `cd frontend && npm run build`
 4. Output directory: `frontend/build`
 5. Add environment variable: `REACT_APP_BACKEND_URL`
 
