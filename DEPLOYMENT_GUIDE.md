@@ -7,7 +7,9 @@
 #### Build the Frontend
 ```bash
 cd /app/frontend
-yarn build
+npm run build
+# OR if you have yarn installed:
+# yarn build
 ```
 
 The build creates a `/app/frontend/build` folder with:
