@@ -11,7 +11,8 @@ import { RefreshCw, TrendingDown, Users, DollarSign, Calendar } from "lucide-rea
 import { toast } from "sonner";
 import SEOContent from './components/SEOContent';
 import PriceHistoryChart from './components/PriceHistoryChart';
-import InstitutionalOwnershipMap from './components/InstitutionalOwnershipMap';
+import InstitutionalOwnershipPieChart from './components/InstitutionalOwnershipPieChart';
+import PriceHistoryWithInsiders from './components/PriceHistoryWithInsiders';
 
 // Use static JSON files from /data folder
 const DATA_PATH = process.env.PUBLIC_URL + '/data';
@@ -126,9 +127,10 @@ const Dashboard = () => {
 
 
       <main className="container mx-auto px-4 sm:px-6 lg:px-8 py-8">
-        <InstitutionalOwnershipMap />
+        <InstitutionalOwnershipPieChart />
+        <PriceHistoryWithInsiders />
         {/* Stats Cards */}
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6 mb-8">
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6 mb-8 mt-8">
           <Card data-testid="total-sales-card">
             <CardHeader className="flex flex-row items-center justify-between space-y-0 pb-2">
               <CardTitle className="text-sm font-medium">Total Sales Volume</CardTitle>

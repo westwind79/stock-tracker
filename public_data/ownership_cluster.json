@@ -1,14 +1,32 @@
 [
   {
+    "name": "BlackRock",
+    "shares": 98138,
+    "value": 40006286,
+    "filing_date": "2024-08-13"
+  },
+  {
+    "name": "Goldman Sachs",
+    "shares": 98138,
+    "value": 28557438,
+    "filing_date": "2025-08-14"
+  },
+  {
     "name": "Vanguard Group",
-    "shares": 19712367,
-    "value": 4760536630.5,
+    "shares": 98138,
+    "value": 23963949,
     "filing_date": "2025-11-07"
   },
   {
-    "name": "State Street",
-    "shares": 9674568,
-    "value": 2336408172.0,
-    "filing_date": "2025-11-14"
+    "name": "Charles Schwab",
+    "shares": 98138,
+    "value": 21809657,
+    "filing_date": "2025-11-13"
+  },
+  {
+    "name": "JPMorgan Chase",
+    "shares": 98138,
+    "value": 15743983,
+    "filing_date": "2025-11-26"
   }
 ]

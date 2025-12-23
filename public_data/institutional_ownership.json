@@ -1,26 +1,45 @@
 {
-  "total_institutional_shares": 29386935,
-  "total_institutional_value": 7096944802.5,
-  "number_of_institutions": 2,
+  "total_institutional_shares": 490690,
+  "total_institutional_value": 130081313,
+  "number_of_institutions": 5,
   "largest_holder": "Vanguard Group",
-  "largest_holder_shares": 19712367,
-  "last_updated": "2025-12-22 18:02 UTC",
+  "largest_holder_shares": 98138,
+  "last_updated": "2025-12-22 18:57 UTC",
   "holdings_by_investor": [
     {
-      "shares": 19712367,
-      "value_thousands": 4745358108,
-      "value_dollars": 4760536630.5,
+      "shares": 98138,
+      "value_dollars": 23963949,
       "investor_name": "Vanguard Group",
       "cik": "0000102909",
       "filing_date": "2025-11-07"
     },
     {
-      "shares": 9674568,
-      "value_thousands": 2328958755,
-      "value_dollars": 2336408172.0,
-      "investor_name": "State Street",
-      "cik": "0000093751",
-      "filing_date": "2025-11-14"
+      "shares": 98138,
+      "value_dollars": 40006286,
+      "investor_name": "BlackRock",
+      "cik": "0001364742",
+      "filing_date": "2024-08-13"
+    },
+    {
+      "shares": 98138,
+      "value_dollars": 21809657,
+      "investor_name": "Charles Schwab",
+      "cik": "0000914208",
+      "filing_date": "2025-11-13"
+    },
+    {
+      "shares": 98138,
+      "value_dollars": 28557438,
+      "investor_name": "Goldman Sachs",
+      "cik": "0000886982",
+      "filing_date": "2025-08-14"
+    },
+    {
+      "shares": 98138,
+      "value_dollars": 15743983,
+      "investor_name": "JPMorgan Chase",
+      "cik": "0000019617",
+      "filing_date": "2025-11-26"
     }
   ]
 }
