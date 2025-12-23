@@ -9,7 +9,6 @@ import { Table, TableBody, TableCell, TableHead, TableHeader, TableRow } from "@
 import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs";
 import { RefreshCw, TrendingDown, Users, DollarSign, Calendar } from "lucide-react";
 import { toast } from "sonner";
-import SEOContent from './components/SEOContent';
 
 // Use static JSON files from /data folder
 const DATA_PATH = process.env.PUBLIC_URL + '/data';
@@ -311,7 +310,7 @@ const Dashboard = () => {
             </Card>
           </TabsContent>
         </Tabs>
-        <SEOContent />
+
         {/* Footer */}
         <div className="mt-12 text-center text-sm text-slate-500">
           <p>Data sourced from SEC EDGAR • Updated periodically</p>
