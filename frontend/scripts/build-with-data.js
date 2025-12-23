@@ -6,7 +6,8 @@ console.log('🚀 Starting complete build process...\n');
 
 // Paths
 const projectRoot = path.join(__dirname, '..', '..');
-const pythonScript = path.join(projectRoot, 'generate_static_data.py');
+const pythonScript = path.join(projectRoot, 'generate_static_data_enhanced.py');
+// const pythonScript = path.join(projectRoot, 'generate_static_data.py');
 const sourceDir = path.join(projectRoot, 'public_data');
 const targetDir = path.join(__dirname, '..', 'build', 'data');
 

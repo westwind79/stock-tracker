@@ -1,56 +1,104 @@
 [
   {
     "name": "DUFFIELD DAVID A",
-    "total_sales": 52731535.00489999,
-    "transaction_count": 22,
+    "total_sales": 216154302.73519996,
+    "transaction_count": 89,
     "latest_transaction": "2025-12-16"
   },
   {
     "name": "Eschenbach Carl M.",
-    "total_sales": 5357299.104099999,
-    "transaction_count": 9,
+    "total_sales": 13662751.6411,
+    "transaction_count": 17,
     "latest_transaction": "2025-12-05"
   },
   {
     "name": "Rowe Zane",
-    "total_sales": 2329813.0573000005,
-    "transaction_count": 8,
+    "total_sales": 5959658.0973000005,
+    "transaction_count": 14,
     "latest_transaction": "2025-10-07"
   },
   {
     "name": "BHUSRI ANEEL",
-    "total_sales": 2006769.28,
-    "transaction_count": 1,
+    "total_sales": 4057861.12,
+    "transaction_count": 2,
     "latest_transaction": "2025-10-05"
   },
   {
     "name": "Sauer Richard Harry",
-    "total_sales": 1365204.7376,
-    "transaction_count": 6,
+    "total_sales": 2737177.2176,
+    "transaction_count": 9,
     "latest_transaction": "2025-10-07"
   },
   {
-    "name": "Garfield Mark S.",
-    "total_sales": 1348420.9385,
-    "transaction_count": 4,
+    "name": "STILL GEORGE J JR",
+    "total_sales": 1863100.8699,
+    "transaction_count": 7,
     "latest_transaction": "2025-10-09"
+  },
+  {
+    "name": "Garfield Mark S.",
+    "total_sales": 1603750.4785,
+    "transaction_count": 6,
+    "latest_transaction": "2025-10-09"
+  },
+  {
+    "name": "Kazmaier Gerrit S",
+    "total_sales": 1392052.96,
+    "transaction_count": 2,
+    "latest_transaction": "2025-10-05"
   },
   {
     "name": "MCNAMARA MICHAEL M",
     "total_sales": 1268201.3447,
-    "transaction_count": 6,
+    "transaction_count": 7,
     "latest_transaction": "2025-10-10"
   },
   {
-    "name": "Kazmaier Gerrit S",
-    "total_sales": 725520.64,
+    "name": "Hawkins Mark J",
+    "total_sales": 0,
     "transaction_count": 1,
-    "latest_transaction": "2025-10-05"
+    "latest_transaction": "2025-06-04"
   },
   {
-    "name": "STILL GEORGE J JR",
-    "total_sales": 0.0,
+    "name": "BOGAN THOMAS F",
+    "total_sales": 0,
     "transaction_count": 1,
-    "latest_transaction": "2025-10-09"
+    "latest_transaction": "2025-06-04"
+  },
+  {
+    "name": "Centoni Elizabeth",
+    "total_sales": 0,
+    "transaction_count": 1,
+    "latest_transaction": "2025-06-04"
+  },
+  {
+    "name": "Doughtie Lynne M",
+    "total_sales": 0,
+    "transaction_count": 1,
+    "latest_transaction": "2025-06-04"
+  },
+  {
+    "name": "MORRIS RHONDA J",
+    "total_sales": 0,
+    "transaction_count": 1,
+    "latest_transaction": "2025-06-04"
+  },
+  {
+    "name": "YANG JERRY",
+    "total_sales": 0,
+    "transaction_count": 1,
+    "latest_transaction": "2025-06-04"
+  },
+  {
+    "name": "Frederick Wayne A.I.",
+    "total_sales": 0,
+    "transaction_count": 1,
+    "latest_transaction": "2025-06-04"
+  },
+  {
+    "name": "Speiser Michael L",
+    "total_sales": 0,
+    "transaction_count": 1,
+    "latest_transaction": "2025-06-04"
   }
 ]

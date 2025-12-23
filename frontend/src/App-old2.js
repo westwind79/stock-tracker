@@ -10,8 +10,6 @@ import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs";
 import { RefreshCw, TrendingDown, Users, DollarSign, Calendar } from "lucide-react";
 import { toast } from "sonner";
 import SEOContent from './components/SEOContent';
-import PriceHistoryChart from './components/PriceHistoryChart';
-import InstitutionalOwnershipMap from './components/InstitutionalOwnershipMap';
 
 // Use static JSON files from /data folder
 const DATA_PATH = process.env.PUBLIC_URL + '/data';
@@ -123,10 +121,7 @@ const Dashboard = () => {
         </div>
       </header>
 
-
-
       <main className="container mx-auto px-4 sm:px-6 lg:px-8 py-8">
-        <InstitutionalOwnershipMap />
         {/* Stats Cards */}
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6 mb-8">
           <Card data-testid="total-sales-card">
@@ -180,11 +175,6 @@ const Dashboard = () => {
               <p className="text-xs text-slate-600 mt-1">Data refresh time</p>
             </CardContent>
           </Card>
-        </div>
-
-        {/* PRICE HISTORY CHART - NEW! */}
-        <div className="mb-8">
-          <PriceHistoryChart />
         </div>
 
         {/* Main Content Tabs */}
