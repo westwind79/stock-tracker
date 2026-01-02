@@ -1,5 +1,109 @@
 [
   {
+    "id": "DUFFIELD DAVID A_2025-12-23_80279.0",
+    "executive_name": "DUFFIELD DAVID A",
+    "executive_title": null,
+    "transaction_date": "2025-12-23",
+    "transaction_type": "Purchase",
+    "shares": 80279.0,
+    "price_per_share": 0.0,
+    "total_value": 0.0,
+    "filing_date": "2025-12-29",
+    "form_type": "Form 4",
+    "created_at": "2026-01-01T21:58:29.397933"
+  },
+  {
+    "id": "DUFFIELD DAVID A_2025-12-23_24922.0",
+    "executive_name": "DUFFIELD DAVID A",
+    "executive_title": null,
+    "transaction_date": "2025-12-23",
+    "transaction_type": "Sale",
+    "shares": 24922.0,
+    "price_per_share": 214.3188,
+    "total_value": 5341253.1336,
+    "filing_date": "2025-12-29",
+    "form_type": "Form 4",
+    "created_at": "2026-01-01T21:58:29.397954"
+  },
+  {
+    "id": "DUFFIELD DAVID A_2025-12-23_50857.0",
+    "executive_name": "DUFFIELD DAVID A",
+    "executive_title": null,
+    "transaction_date": "2025-12-23",
+    "transaction_type": "Sale",
+    "shares": 50857.0,
+    "price_per_share": 215.2916,
+    "total_value": 10949084.9012,
+    "filing_date": "2025-12-29",
+    "form_type": "Form 4",
+    "created_at": "2026-01-01T21:58:29.397966"
+  },
+  {
+    "id": "DUFFIELD DAVID A_2025-12-23_3800.0",
+    "executive_name": "DUFFIELD DAVID A",
+    "executive_title": null,
+    "transaction_date": "2025-12-23",
+    "transaction_type": "Sale",
+    "shares": 3800.0,
+    "price_per_share": 216.01,
+    "total_value": 820838.0,
+    "filing_date": "2025-12-29",
+    "form_type": "Form 4",
+    "created_at": "2026-01-01T21:58:29.397978"
+  },
+  {
+    "id": "DUFFIELD DAVID A_2025-12-23_700.0",
+    "executive_name": "DUFFIELD DAVID A",
+    "executive_title": null,
+    "transaction_date": "2025-12-23",
+    "transaction_type": "Sale",
+    "shares": 700.0,
+    "price_per_share": 216.88,
+    "total_value": 151816.0,
+    "filing_date": "2025-12-29",
+    "form_type": "Form 4",
+    "created_at": "2026-01-01T21:58:29.397994"
+  },
+  {
+    "id": "Kazmaier Gerrit S_2025-12-19_1538.0",
+    "executive_name": "Kazmaier Gerrit S",
+    "executive_title": "President, Prod. and Tech.",
+    "transaction_date": "2025-12-19",
+    "transaction_type": "Sale",
+    "shares": 1538.0,
+    "price_per_share": 218.2003,
+    "total_value": 335592.0614,
+    "filing_date": "2025-12-23",
+    "form_type": "Form 4",
+    "created_at": "2026-01-01T21:58:30.513014"
+  },
+  {
+    "id": "Kazmaier Gerrit S_2025-12-19_4509.0",
+    "executive_name": "Kazmaier Gerrit S",
+    "executive_title": "President, Prod. and Tech.",
+    "transaction_date": "2025-12-19",
+    "transaction_type": "Sale",
+    "shares": 4509.0,
+    "price_per_share": 218.8614,
+    "total_value": 986846.0526,
+    "filing_date": "2025-12-23",
+    "form_type": "Form 4",
+    "created_at": "2026-01-01T21:58:30.513028"
+  },
+  {
+    "id": "Kazmaier Gerrit S_2025-12-19_500.0",
+    "executive_name": "Kazmaier Gerrit S",
+    "executive_title": "President, Prod. and Tech.",
+    "transaction_date": "2025-12-19",
+    "transaction_type": "Sale",
+    "shares": 500.0,
+    "price_per_share": 219.64,
+    "total_value": 109820.0,
+    "filing_date": "2025-12-23",
+    "form_type": "Form 4",
+    "created_at": "2026-01-01T21:58:30.513036"
+  },
+  {
     "id": "DUFFIELD DAVID A_2025-12-16_81434.0",
     "executive_name": "DUFFIELD DAVID A",
     "executive_title": null,
@@ -10,7 +114,7 @@
     "total_value": 0.0,
     "filing_date": "2025-12-18",
     "form_type": "Form 4",
-    "created_at": "2025-12-22T20:58:03.617441"
+    "created_at": "2026-01-01T21:58:31.679825"
   },
   {
     "id": "DUFFIELD DAVID A_2025-12-16_16881.0",
@@ -23,7 +127,7 @@
     "total_value": 3632257.7604,
     "filing_date": "2025-12-18",
     "form_type": "Form 4",
-    "created_at": "2025-12-22T20:58:03.617458"
+    "created_at": "2026-01-01T21:58:31.679841"
   },
   {
     "id": "DUFFIELD DAVID A_2025-12-16_55253.0",
@@ -36,7 +140,7 @@
     "total_value": 11936747.614,
     "filing_date": "2025-12-18",
     "form_type": "Form 4",
-    "created_at": "2025-12-22T20:58:03.617466"
+    "created_at": "2026-01-01T21:58:31.679851"
   },
   {
     "id": "DUFFIELD DAVID A_2025-12-16_8000.0",
@@ -49,7 +153,7 @@
     "total_value": 1736306.4,
     "filing_date": "2025-12-18",
     "form_type": "Form 4",
-    "created_at": "2025-12-22T20:58:03.617474"
+    "created_at": "2026-01-01T21:58:31.679861"
   },
   {
     "id": "DUFFIELD DAVID A_2025-12-16_1300.0",
@@ -62,7 +166,7 @@
     "total_value": 283022.61,
     "filing_date": "2025-12-18",
     "form_type": "Form 4",
-    "created_at": "2025-12-22T20:58:03.617483"
+    "created_at": "2026-01-01T21:58:31.679871"
   },
   {
     "id": "Eschenbach Carl M._2025-12-05_11084.0",
@@ -75,7 +179,7 @@
     "total_value": 2401016.08,
     "filing_date": "2025-12-09",
     "form_type": "Form 4",
-    "created_at": "2025-12-22T20:58:04.822910"
+    "created_at": "2026-01-01T21:58:32.804855"
   },
   {
     "id": "DUFFIELD DAVID A_2025-12-02_82025.0",
@@ -88,7 +192,7 @@
     "total_value": 0.0,
     "filing_date": "2025-12-04",
     "form_type": "Form 4",
-    "created_at": "2025-12-22T20:58:06.005610"
+    "created_at": "2026-01-01T21:58:33.965202"
   },
   {
     "id": "DUFFIELD DAVID A_2025-12-02_7007.0",
@@ -101,7 +205,7 @@
     "total_value": 1476887.1117,
     "filing_date": "2025-12-04",
     "form_type": "Form 4",
-    "created_at": "2025-12-22T20:58:06.005631"
+    "created_at": "2026-01-01T21:58:33.965216"
   },
   {
     "id": "DUFFIELD DAVID A_2025-12-02_31752.0",
@@ -114,7 +218,7 @@
     "total_value": 6717630.9311999995,
     "filing_date": "2025-12-04",
     "form_type": "Form 4",
-    "created_at": "2025-12-22T20:58:06.005642"
+    "created_at": "2026-01-01T21:58:33.965227"
   },
   {
     "id": "DUFFIELD DAVID A_2025-12-02_28555.0",
@@ -127,7 +231,7 @@
     "total_value": 6071592.54,
     "filing_date": "2025-12-04",
     "form_type": "Form 4",
-    "created_at": "2025-12-22T20:58:06.005652"
+    "created_at": "2026-01-01T21:58:33.965235"
   },
   {
     "id": "DUFFIELD DAVID A_2025-12-02_14511.0",
@@ -140,7 +244,7 @@
     "total_value": 3095871.0615,
     "filing_date": "2025-12-04",
     "form_type": "Form 4",
-    "created_at": "2025-12-22T20:58:06.005662"
+    "created_at": "2026-01-01T21:58:33.965242"
   },
   {
     "id": "DUFFIELD DAVID A_2025-12-02_200.0",
@@ -153,7 +257,7 @@
     "total_value": 42818.0,
     "filing_date": "2025-12-04",
     "form_type": "Form 4",
-    "created_at": "2025-12-22T20:58:06.005673"
+    "created_at": "2026-01-01T21:58:33.965250"
   },
   {
     "id": "DUFFIELD DAVID A_2025-12-02_2320000.0",
@@ -166,7 +270,7 @@
     "total_value": 0.0,
     "filing_date": "2025-12-04",
     "form_type": "Form 4",
-    "created_at": "2025-12-22T20:58:06.005683"
+    "created_at": "2026-01-01T21:58:33.965257"
   },
   {
     "id": "DUFFIELD DAVID A_2025-12-02_215000.0",
@@ -179,7 +283,7 @@
     "total_value": 0.0,
     "filing_date": "2025-12-04",
     "form_type": "Form 4",
-    "created_at": "2025-12-22T20:58:06.005693"
+    "created_at": "2026-01-01T21:58:33.965264"
   },
   {
     "id": "DUFFIELD DAVID A_2025-12-02_2320000.0",
@@ -192,7 +296,7 @@
     "total_value": 0.0,
     "filing_date": "2025-12-04",
     "form_type": "Form 4",
-    "created_at": "2025-12-22T20:58:06.005702"
+    "created_at": "2026-01-01T21:58:33.965272"
   },
   {
     "id": "DUFFIELD DAVID A_2025-12-02_215000.0",
@@ -205,7 +309,7 @@
     "total_value": 0.0,
     "filing_date": "2025-12-04",
     "form_type": "Form 4",
-    "created_at": "2025-12-22T20:58:06.005712"
+    "created_at": "2026-01-01T21:58:33.965280"
   },
   {
     "id": "Eschenbach Carl M._2025-11-05_1674.0",
@@ -218,7 +322,7 @@
     "total_value": 390828.77999999997,
     "filing_date": "2025-11-06",
     "form_type": "Form 4",
-    "created_at": "2025-12-22T20:58:07.223028"
+    "created_at": "2026-01-01T21:58:35.149249"
   },
   {
     "id": "MCNAMARA MICHAEL M_2025-10-10_1373.0",
@@ -231,7 +335,7 @@
     "total_value": 320371.701,
     "filing_date": "2025-10-14",
     "form_type": "Form 4",
-    "created_at": "2025-12-22T20:58:10.727188"
+    "created_at": "2026-01-01T21:58:38.692789"
   },
   {
     "id": "MCNAMARA MICHAEL M_2025-10-10_2398.0",
@@ -244,7 +348,7 @@
     "total_value": 562084.7254,
     "filing_date": "2025-10-14",
     "form_type": "Form 4",
-    "created_at": "2025-12-22T20:58:10.727200"
+    "created_at": "2026-01-01T21:58:38.692801"
   },
   {
     "id": "MCNAMARA MICHAEL M_2025-10-10_158.0",
@@ -257,7 +361,7 @@
     "total_value": 37172.1544,
     "filing_date": "2025-10-14",
     "form_type": "Form 4",
-    "created_at": "2025-12-22T20:58:10.727209"
+    "created_at": "2026-01-01T21:58:38.692810"
   },
   {
     "id": "MCNAMARA MICHAEL M_2025-10-10_837.0",
@@ -270,7 +374,7 @@
     "total_value": 198743.8086,
     "filing_date": "2025-10-14",
     "form_type": "Form 4",
-    "created_at": "2025-12-22T20:58:10.727216"
+    "created_at": "2026-01-01T21:58:38.692817"
   },
   {
     "id": "MCNAMARA MICHAEL M_2025-10-10_558.0",
@@ -283,7 +387,7 @@
     "total_value": 133305.6978,
     "filing_date": "2025-10-14",
     "form_type": "Form 4",
-    "created_at": "2025-12-22T20:58:10.727223"
+    "created_at": "2026-01-01T21:58:38.692825"
   },
   {
     "id": "MCNAMARA MICHAEL M_2025-10-10_69.0",
@@ -296,7 +400,7 @@
     "total_value": 16523.2575,
     "filing_date": "2025-10-14",
     "form_type": "Form 4",
-    "created_at": "2025-12-22T20:58:10.727233"
+    "created_at": "2026-01-01T21:58:38.692832"
   },
   {
     "id": "Garfield Mark S._2025-10-09_815.0",
@@ -309,7 +413,7 @@
     "total_value": 194049.7885,
     "filing_date": "2025-10-14",
     "form_type": "Form 4",
-    "created_at": "2025-12-22T20:58:08.377772"
+    "created_at": "2026-01-01T21:58:36.305351"
   },
   {
     "id": "Garfield Mark S._2025-10-09_800.0",
@@ -322,7 +426,7 @@
     "total_value": 191424.0,
     "filing_date": "2025-10-14",
     "form_type": "Form 4",
-    "created_at": "2025-12-22T20:58:08.377785"
+    "created_at": "2026-01-01T21:58:36.305373"
   },
   {
     "id": "Garfield Mark S._2025-10-09_300.0",
@@ -335,7 +439,7 @@
     "total_value": 72126.99,
     "filing_date": "2025-10-14",
     "form_type": "Form 4",
-    "created_at": "2025-12-22T20:58:08.377793"
+    "created_at": "2026-01-01T21:58:36.305387"
   },
   {
     "id": "STILL GEORGE J JR_2025-10-09_14784.0",
@@ -348,7 +452,7 @@
     "total_value": 0.0,
     "filing_date": "2025-10-14",
     "form_type": "Form 4",
-    "created_at": "2025-12-22T20:58:09.541309"
+    "created_at": "2026-01-01T21:58:37.447814"
   },
   {
     "id": "DUFFIELD DAVID A_2025-10-08_75053.0",
@@ -361,7 +465,7 @@
     "total_value": 0.0,
     "filing_date": "2025-10-10",
     "form_type": "Form 4",
-    "created_at": "2025-12-22T20:58:11.910263"
+    "created_at": "2026-01-01T21:58:39.875909"
   },
   {
     "id": "DUFFIELD DAVID A_2025-10-08_3400.0",
@@ -374,7 +478,7 @@
     "total_value": 792903.46,
     "filing_date": "2025-10-10",
     "form_type": "Form 4",
-    "created_at": "2025-12-22T20:58:11.910279"
+    "created_at": "2026-01-01T21:58:39.875922"
   },
   {
     "id": "DUFFIELD DAVID A_2025-10-08_9489.0",
@@ -387,7 +491,7 @@
     "total_value": 2222895.9867,
     "filing_date": "2025-10-10",
     "form_type": "Form 4",
-    "created_at": "2025-12-22T20:58:11.910292"
+    "created_at": "2026-01-01T21:58:39.875930"
   },
   {
     "id": "DUFFIELD DAVID A_2025-10-08_12978.0",
@@ -400,7 +504,7 @@
     "total_value": 3052166.04,
     "filing_date": "2025-10-10",
     "form_type": "Form 4",
-    "created_at": "2025-12-22T20:58:11.910299"
+    "created_at": "2026-01-01T21:58:39.875937"
   },
   {
     "id": "DUFFIELD DAVID A_2025-10-08_8656.0",
@@ -413,7 +517,7 @@
     "total_value": 2045433.5744,
     "filing_date": "2025-10-10",
     "form_type": "Form 4",
-    "created_at": "2025-12-22T20:58:11.910307"
+    "created_at": "2026-01-01T21:58:39.875944"
   },
   {
     "id": "DUFFIELD DAVID A_2025-10-08_30595.0",
@@ -426,7 +530,7 @@
     "total_value": 7259202.222,
     "filing_date": "2025-10-10",
     "form_type": "Form 4",
-    "created_at": "2025-12-22T20:58:11.910315"
+    "created_at": "2026-01-01T21:58:39.875951"
   },
   {
     "id": "DUFFIELD DAVID A_2025-10-08_9935.0",
@@ -439,7 +543,7 @@
     "total_value": 2365799.693,
     "filing_date": "2025-10-10",
     "form_type": "Form 4",
-    "created_at": "2025-12-22T20:58:11.910323"
+    "created_at": "2026-01-01T21:58:39.875958"
   },
   {
     "id": "Sauer Richard Harry_2025-10-07_200.0",
@@ -452,7 +556,7 @@
     "total_value": 46105.0,
     "filing_date": "2025-10-07",
     "form_type": "Form 4",
-    "created_at": "2025-12-22T20:58:13.063234"
+    "created_at": "2026-01-01T21:58:41.022692"
   },
   {
     "id": "Sauer Richard Harry_2025-10-07_391.0",
@@ -465,7 +569,7 @@
     "total_value": 90616.0877,
     "filing_date": "2025-10-07",
     "form_type": "Form 4",
-    "created_at": "2025-12-22T20:58:13.063245"
+    "created_at": "2026-01-01T21:58:41.022700"
   },
   {
     "id": "Sauer Richard Harry_2025-10-07_369.0",
@@ -478,7 +582,7 @@
     "total_value": 86049.7299,
     "filing_date": "2025-10-07",
     "form_type": "Form 4",
-    "created_at": "2025-12-22T20:58:13.063253"
+    "created_at": "2026-01-01T21:58:41.022708"
   },
   {
     "id": "Sauer Richard Harry_2025-10-07_200.0",
@@ -491,7 +595,7 @@
     "total_value": 47314.0,
     "filing_date": "2025-10-07",
     "form_type": "Form 4",
-    "created_at": "2025-12-22T20:58:13.063261"
+    "created_at": "2026-01-01T21:58:41.022718"
   },
   {
     "id": "Sauer Richard Harry_2025-10-07_1160.0",
@@ -504,7 +608,7 @@
     "total_value": 277135.6,
     "filing_date": "2025-10-07",
     "form_type": "Form 4",
-    "created_at": "2025-12-22T20:58:13.063268"
+    "created_at": "2026-01-01T21:58:41.022726"
   },
   {
     "id": "Rowe Zane_2025-10-07_702.0",
@@ -517,7 +621,7 @@
     "total_value": 161829.6732,
     "filing_date": "2025-10-07",
     "form_type": "Form 4",
-    "created_at": "2025-12-22T20:58:14.268635"
+    "created_at": "2026-01-01T21:58:42.207162"
   },
   {
     "id": "Rowe Zane_2025-10-07_2231.0",
@@ -530,7 +634,7 @@
     "total_value": 517187.9659,
     "filing_date": "2025-10-07",
     "form_type": "Form 4",
-    "created_at": "2025-12-22T20:58:14.268643"
+    "created_at": "2026-01-01T21:58:42.207180"
   },
   {
     "id": "Rowe Zane_2025-10-07_2267.0",
@@ -543,7 +647,7 @@
     "total_value": 528221.4282000001,
     "filing_date": "2025-10-07",
     "form_type": "Form 4",
-    "created_at": "2025-12-22T20:58:14.268650"
+    "created_at": "2026-01-01T21:58:42.207198"
   },
   {
     "id": "Rowe Zane_2025-10-07_200.0",
@@ -556,7 +660,7 @@
     "total_value": 46704.0,
     "filing_date": "2025-10-07",
     "form_type": "Form 4",
-    "created_at": "2025-12-22T20:58:14.268657"
+    "created_at": "2026-01-01T21:58:42.207215"
   },
   {
     "id": "Rowe Zane_2025-10-07_200.0",
@@ -569,7 +673,7 @@
     "total_value": 46973.0,
     "filing_date": "2025-10-07",
     "form_type": "Form 4",
-    "created_at": "2025-12-22T20:58:14.268665"
+    "created_at": "2026-01-01T21:58:42.207231"
   },
   {
     "id": "Rowe Zane_2025-10-07_300.0",
@@ -582,7 +686,7 @@
     "total_value": 71013.99,
     "filing_date": "2025-10-07",
     "form_type": "Form 4",
-    "created_at": "2025-12-22T20:58:14.268674"
+    "created_at": "2026-01-01T21:58:42.207248"
   },
   {
     "id": "Rowe Zane_2025-10-07_100.0",
@@ -595,7 +699,7 @@
     "total_value": 23787.0,
     "filing_date": "2025-10-07",
     "form_type": "Form 4",
-    "created_at": "2025-12-22T20:58:14.268681"
+    "created_at": "2026-01-01T21:58:42.207264"
   },
   {
     "id": "Sauer Richard Harry_2025-10-05_3459.0",
@@ -608,7 +712,7 @@
     "total_value": 817984.32,
     "filing_date": "2025-10-07",
     "form_type": "Form 4",
-    "created_at": "2025-12-22T20:58:13.063221"
+    "created_at": "2026-01-01T21:58:41.022679"
   },
   {
     "id": "Rowe Zane_2025-10-05_3950.0",
@@ -621,7 +725,7 @@
     "total_value": 934096.0,
     "filing_date": "2025-10-07",
     "form_type": "Form 4",
-    "created_at": "2025-12-22T20:58:14.268622"
+    "created_at": "2026-01-01T21:58:42.207137"
   },
   {
     "id": "Garfield Mark S._2025-10-05_3767.0",
@@ -634,7 +738,7 @@
     "total_value": 890820.1599999999,
     "filing_date": "2025-10-07",
     "form_type": "Form 4",
-    "created_at": "2025-12-22T20:58:15.430803"
+    "created_at": "2026-01-01T21:58:43.355300"
   },
   {
     "id": "Eschenbach Carl M._2025-10-05_4571.0",
@@ -647,7 +751,7 @@
     "total_value": 1080950.0799999998,
     "filing_date": "2025-10-07",
     "form_type": "Form 4",
-    "created_at": "2025-12-22T20:58:16.571952"
+    "created_at": "2026-01-01T21:58:44.584898"
   },
   {
     "id": "BHUSRI ANEEL_2025-10-05_8486.0",
@@ -660,7 +764,7 @@
     "total_value": 2006769.28,
     "filing_date": "2025-10-07",
     "form_type": "Form 4",
-    "created_at": "2025-12-22T20:58:17.729558"
+    "created_at": "2026-01-01T21:58:45.789519"
   },
   {
     "id": "Kazmaier Gerrit S_2025-10-05_3068.0",
@@ -673,7 +777,7 @@
     "total_value": 725520.64,
     "filing_date": "2025-10-07",
     "form_type": "Form 4",
-    "created_at": "2025-12-22T20:58:18.860791"
+    "created_at": "2026-01-01T21:58:46.974789"
   },
   {
     "id": "Eschenbach Carl M._2025-10-01_1506.0",
@@ -686,7 +790,7 @@
     "total_value": 350153.7348,
     "filing_date": "2025-10-03",
     "form_type": "Form 4",
-    "created_at": "2025-12-22T20:58:20.011772"
+    "created_at": "2026-01-01T21:58:48.174737"
   },
   {
     "id": "Eschenbach Carl M._2025-10-01_500.0",
@@ -699,7 +803,7 @@
     "total_value": 116722.05,
     "filing_date": "2025-10-03",
     "form_type": "Form 4",
-    "created_at": "2025-12-22T20:58:20.011786"
+    "created_at": "2026-01-01T21:58:48.174750"
   },
   {
     "id": "Eschenbach Carl M._2025-10-01_381.0",
@@ -712,7 +816,7 @@
     "total_value": 90293.3424,
     "filing_date": "2025-10-03",
     "form_type": "Form 4",
-    "created_at": "2025-12-22T20:58:20.011794"
+    "created_at": "2026-01-01T21:58:48.174758"
   },
   {
     "id": "Eschenbach Carl M._2025-10-01_200.0",
@@ -725,7 +829,7 @@
     "total_value": 47746.0,
     "filing_date": "2025-10-03",
     "form_type": "Form 4",
-    "created_at": "2025-12-22T20:58:20.011802"
+    "created_at": "2026-01-01T21:58:48.174766"
   },
   {
     "id": "Eschenbach Carl M._2025-10-01_3425.0",
@@ -738,7 +842,7 @@
     "total_value": 822109.9425,
     "filing_date": "2025-10-03",
     "form_type": "Form 4",
-    "created_at": "2025-12-22T20:58:20.011810"
+    "created_at": "2026-01-01T21:58:48.174773"
   },
   {
     "id": "Eschenbach Carl M._2025-10-01_238.0",
@@ -751,7 +855,7 @@
     "total_value": 57479.0944,
     "filing_date": "2025-10-03",
     "form_type": "Form 4",
-    "created_at": "2025-12-22T20:58:20.011818"
+    "created_at": "2026-01-01T21:58:48.174780"
   },
   {
     "id": "DUFFIELD DAVID A_2025-10-01_72696.0",
@@ -764,7 +868,7 @@
     "total_value": 0.0,
     "filing_date": "2025-10-03",
     "form_type": "Form 4",
-    "created_at": "2025-12-22T20:58:21.136409"
+    "created_at": "2026-01-01T21:58:49.320707"
   },
   {
     "id": "DUFFIELD DAVID A_2025-10-01_17621.0",
@@ -777,7 +881,7 @@
     "total_value": 4090137.1812,
     "filing_date": "2025-10-03",
     "form_type": "Form 4",
-    "created_at": "2025-12-22T20:58:21.136422"
+    "created_at": "2026-01-01T21:58:49.320720"
   },
   {
     "id": "DUFFIELD DAVID A_2025-10-01_21484.0",
@@ -790,7 +894,7 @@
     "total_value": 4999253.7544,
     "filing_date": "2025-10-03",
     "form_type": "Form 4",
-    "created_at": "2025-12-22T20:58:21.136430"
+    "created_at": "2026-01-01T21:58:49.320728"
   },
   {
     "id": "DUFFIELD DAVID A_2025-10-01_4491.0",
@@ -803,7 +907,7 @@
     "total_value": 1048804.7868,
     "filing_date": "2025-10-03",
     "form_type": "Form 4",
-    "created_at": "2025-12-22T20:58:21.136438"
+    "created_at": "2026-01-01T21:58:49.320736"
   },
   {
     "id": "DUFFIELD DAVID A_2025-10-01_1100.0",
@@ -816,7 +920,7 @@
     "total_value": 258471.07,
     "filing_date": "2025-10-03",
     "form_type": "Form 4",
-    "created_at": "2025-12-22T20:58:21.136445"
+    "created_at": "2026-01-01T21:58:49.320743"
   },
   {
     "id": "DUFFIELD DAVID A_2025-10-01_1000.0",
@@ -829,7 +933,7 @@
     "total_value": 235735.4,
     "filing_date": "2025-10-03",
     "form_type": "Form 4",
-    "created_at": "2025-12-22T20:58:21.136455"
+    "created_at": "2026-01-01T21:58:49.320751"
   },
   {
     "id": "DUFFIELD DAVID A_2025-10-01_5500.0",
@@ -842,7 +946,7 @@
     "total_value": 1303135.3499999999,
     "filing_date": "2025-10-03",
     "form_type": "Form 4",
-    "created_at": "2025-12-22T20:58:21.136462"
+    "created_at": "2026-01-01T21:58:49.320758"
   },
   {
     "id": "DUFFIELD DAVID A_2025-10-01_2210.0",
@@ -855,7 +959,7 @@
     "total_value": 525440.981,
     "filing_date": "2025-10-03",
     "form_type": "Form 4",
-    "created_at": "2025-12-22T20:58:21.136469"
+    "created_at": "2026-01-01T21:58:49.320765"
   },
   {
     "id": "DUFFIELD DAVID A_2025-10-01_5273.0",
@@ -868,7 +972,7 @@
     "total_value": 1258907.1307,
     "filing_date": "2025-10-03",
     "form_type": "Form 4",
-    "created_at": "2025-12-22T20:58:21.136477"
+    "created_at": "2026-01-01T21:58:49.320772"
   },
   {
     "id": "DUFFIELD DAVID A_2025-10-01_6066.0",
@@ -881,7 +985,7 @@
     "total_value": 1455790.8654,
     "filing_date": "2025-10-03",
     "form_type": "Form 4",
-    "created_at": "2025-12-22T20:58:21.136484"
+    "created_at": "2026-01-01T21:58:49.320779"
   },
   {
     "id": "DUFFIELD DAVID A_2025-10-01_7351.0",
@@ -894,7 +998,7 @@
     "total_value": 1769687.8261,
     "filing_date": "2025-10-03",
     "form_type": "Form 4",
-    "created_at": "2025-12-22T20:58:21.136492"
+    "created_at": "2026-01-01T21:58:49.320794"
   },
   {
     "id": "DUFFIELD DAVID A_2025-10-01_600.0",
@@ -907,7 +1011,7 @@
     "total_value": 144913.02000000002,
     "filing_date": "2025-10-03",
     "form_type": "Form 4",
-    "created_at": "2025-12-22T20:58:21.136499"
+    "created_at": "2026-01-01T21:58:49.320801"
   },
   {
     "id": "DUFFIELD DAVID A_2025-09-23_72118.0",
@@ -920,7 +1024,7 @@
     "total_value": 0.0,
     "filing_date": "2025-09-25",
     "form_type": "Form 4",
-    "created_at": "2025-12-22T20:58:22.342688"
+    "created_at": "2026-01-01T21:58:50.451625"
   },
   {
     "id": "DUFFIELD DAVID A_2025-09-23_26608.0",
@@ -933,7 +1037,7 @@
     "total_value": 6393176.0016,
     "filing_date": "2025-09-25",
     "form_type": "Form 4",
-    "created_at": "2025-12-22T20:58:22.342700"
+    "created_at": "2026-01-01T21:58:50.451638"
   },
   {
     "id": "DUFFIELD DAVID A_2025-09-23_15405.0",
@@ -946,7 +1050,7 @@
     "total_value": 3714636.9195,
     "filing_date": "2025-09-25",
     "form_type": "Form 4",
-    "created_at": "2025-12-22T20:58:22.342709"
+    "created_at": "2026-01-01T21:58:50.451646"
   },
   {
     "id": "DUFFIELD DAVID A_2025-09-23_10998.0",
@@ -959,7 +1063,7 @@
     "total_value": 2662029.6066,
     "filing_date": "2025-09-25",
     "form_type": "Form 4",
-    "created_at": "2025-12-22T20:58:22.342716"
+    "created_at": "2026-01-01T21:58:50.451653"
   },
   {
     "id": "DUFFIELD DAVID A_2025-09-23_13006.0",
@@ -972,7 +1076,7 @@
     "total_value": 3163182.7569999998,
     "filing_date": "2025-09-25",
     "form_type": "Form 4",
-    "created_at": "2025-12-22T20:58:22.342724"
+    "created_at": "2026-01-01T21:58:50.451661"
   },
   {
     "id": "DUFFIELD DAVID A_2025-09-23_5901.0",
@@ -985,7 +1089,7 @@
     "total_value": 1439443.9122,
     "filing_date": "2025-09-25",
     "form_type": "Form 4",
-    "created_at": "2025-12-22T20:58:22.342732"
+    "created_at": "2026-01-01T21:58:50.451668"
   },
   {
     "id": "DUFFIELD DAVID A_2025-09-23_200.0",
@@ -998,7 +1102,7 @@
     "total_value": 48932.0,
     "filing_date": "2025-09-25",
     "form_type": "Form 4",
-    "created_at": "2025-12-22T20:58:22.342739"
+    "created_at": "2026-01-01T21:58:50.451675"
   },
   {
     "id": "Sauer Richard Harry_2025-09-17_1160.0",
@@ -1011,7 +1115,7 @@
     "total_value": 273075.6,
     "filing_date": "2025-09-19",
     "form_type": "Form 4",
-    "created_at": "2025-12-22T20:58:23.578914"
+    "created_at": "2026-01-01T21:58:51.632322"
   },
   {
     "id": "DUFFIELD DAVID A_2025-09-16_78564.0",
@@ -1024,7 +1128,7 @@
     "total_value": 0.0,
     "filing_date": "2025-09-17",
     "form_type": "Form 4",
-    "created_at": "2025-12-22T20:58:24.789222"
+    "created_at": "2026-01-01T21:58:52.787055"
   },
   {
     "id": "DUFFIELD DAVID A_2025-09-16_30941.0",
@@ -1037,7 +1141,7 @@
     "total_value": 6775915.0127,
     "filing_date": "2025-09-17",
     "form_type": "Form 4",
-    "created_at": "2025-12-22T20:58:24.789229"
+    "created_at": "2026-01-01T21:58:52.787063"
   },
   {
     "id": "DUFFIELD DAVID A_2025-09-16_19758.0",
@@ -1050,7 +1154,7 @@
     "total_value": 4348789.1466,
     "filing_date": "2025-09-17",
     "form_type": "Form 4",
-    "created_at": "2025-12-22T20:58:24.789235"
+    "created_at": "2026-01-01T21:58:52.787070"
   },
   {
     "id": "DUFFIELD DAVID A_2025-09-16_19560.0",
@@ -1063,7 +1167,7 @@
     "total_value": 4318476.36,
     "filing_date": "2025-09-17",
     "form_type": "Form 4",
-    "created_at": "2025-12-22T20:58:24.789250"
+    "created_at": "2026-01-01T21:58:52.787077"
   },
   {
     "id": "DUFFIELD DAVID A_2025-09-16_3803.0",
@@ -1076,7 +1180,7 @@
     "total_value": 844127.9511,
     "filing_date": "2025-09-17",
     "form_type": "Form 4",
-    "created_at": "2025-12-22T20:58:24.789259"
+    "created_at": "2026-01-01T21:58:52.787084"
   },
   {
     "id": "DUFFIELD DAVID A_2025-09-16_2002.0",
@@ -1089,7 +1193,7 @@
     "total_value": 446848.00159999996,
     "filing_date": "2025-09-17",
     "form_type": "Form 4",
-    "created_at": "2025-12-22T20:58:24.789267"
+    "created_at": "2026-01-01T21:58:52.787092"
   },
   {
     "id": "DUFFIELD DAVID A_2025-09-16_2500.0",
@@ -1102,7 +1206,7 @@
     "total_value": 559447.0,
     "filing_date": "2025-09-17",
     "form_type": "Form 4",
-    "created_at": "2025-12-22T20:58:24.789274"
+    "created_at": "2026-01-01T21:58:52.787099"
   },
   {
     "id": "DUFFIELD DAVID A_2025-09-15_4502.0",
@@ -1115,7 +1219,7 @@
     "total_value": 994958.6574,
     "filing_date": "2025-09-17",
     "form_type": "Form 4",
-    "created_at": "2025-12-22T20:58:24.789186"
+    "created_at": "2026-01-01T21:58:52.787019"
   },
   {
     "id": "DUFFIELD DAVID A_2025-09-15_4206.0",
@@ -1128,7 +1232,7 @@
     "total_value": 934139.1408,
     "filing_date": "2025-09-17",
     "form_type": "Form 4",
-    "created_at": "2025-12-22T20:58:24.789199"
+    "created_at": "2026-01-01T21:58:52.787032"
   },
   {
     "id": "DUFFIELD DAVID A_2025-09-15_4323.0",
@@ -1141,7 +1245,7 @@
     "total_value": 963602.3199,
     "filing_date": "2025-09-17",
     "form_type": "Form 4",
-    "created_at": "2025-12-22T20:58:24.789207"
+    "created_at": "2026-01-01T21:58:52.787040"
   },
   {
     "id": "DUFFIELD DAVID A_2025-09-15_1969.0",
@@ -1154,7 +1258,7 @@
     "total_value": 440815.5851,
     "filing_date": "2025-09-17",
     "form_type": "Form 4",
-    "created_at": "2025-12-22T20:58:24.789214"
+    "created_at": "2026-01-01T21:58:52.787047"
   },
   {
     "id": "Sauer Richard Harry_2025-09-11_1160.0",
@@ -1167,7 +1271,7 @@
     "total_value": 262890.8,
     "filing_date": "2025-09-15",
     "form_type": "Form 4",
-    "created_at": "2025-12-22T20:58:25.955957"
+    "created_at": "2026-01-01T21:58:53.958523"
   },
   {
     "id": "Eschenbach Carl M._2025-09-05_11084.0",
@@ -1180,7 +1284,7 @@
     "total_value": 2561844.92,
     "filing_date": "2025-09-09",
     "form_type": "Form 4",
-    "created_at": "2025-12-22T20:58:27.120187"
+    "created_at": "2026-01-01T21:58:55.197412"
   },
   {
     "id": "DUFFIELD DAVID A_2025-09-02_75817.0",
@@ -1193,7 +1297,7 @@
     "total_value": 0.0,
     "filing_date": "2025-09-04",
     "form_type": "Form 4",
-    "created_at": "2025-12-22T20:58:28.259896"
+    "created_at": "2026-01-01T21:58:56.565792"
   },
   {
     "id": "DUFFIELD DAVID A_2025-09-02_23392.0",
@@ -1206,7 +1310,7 @@
     "total_value": 5321591.1104,
     "filing_date": "2025-09-04",
     "form_type": "Form 4",
-    "created_at": "2025-12-22T20:58:28.259911"
+    "created_at": "2026-01-01T21:58:56.565811"
   },
   {
     "id": "DUFFIELD DAVID A_2025-09-02_40825.0",
@@ -1219,7 +1323,7 @@
     "total_value": 9319604.485,
     "filing_date": "2025-09-04",
     "form_type": "Form 4",
-    "created_at": "2025-12-22T20:58:28.259920"
+    "created_at": "2026-01-01T21:58:56.565820"
   },
   {
     "id": "DUFFIELD DAVID A_2025-09-02_11600.0",
@@ -1232,7 +1336,7 @@
     "total_value": 2657071.6399999997,
     "filing_date": "2025-09-04",
     "form_type": "Form 4",
-    "created_at": "2025-12-22T20:58:28.259930"
+    "created_at": "2026-01-01T21:58:56.565828"
   },
   {
     "id": "Eschenbach Carl M._2025-08-05_1674.0",
@@ -1245,7 +1349,7 @@
     "total_value": 376850.88,
     "filing_date": "2025-08-07",
     "form_type": "Form 4",
-    "created_at": "2025-12-22T20:58:29.404137"
+    "created_at": "2026-01-01T21:58:58.041355"
   },
   {
     "id": "Garfield Mark S._2025-07-10_451.0",
@@ -1258,7 +1362,7 @@
     "total_value": 105921.86,
     "filing_date": "2025-07-14",
     "form_type": "Form 4",
-    "created_at": "2025-12-22T20:58:30.545128"
+    "created_at": "2026-01-01T21:58:59.238310"
   },
   {
     "id": "DUFFIELD DAVID A_2025-07-08_72551.0",
@@ -1271,7 +1375,7 @@
     "total_value": 0.0,
     "filing_date": "2025-07-10",
     "form_type": "Form 4",
-    "created_at": "2025-12-22T20:58:31.733462"
+    "created_at": "2026-01-01T21:59:00.430631"
   },
   {
     "id": "DUFFIELD DAVID A_2025-07-08_13638.0",
@@ -1284,7 +1388,7 @@
     "total_value": 3242543.6040000003,
     "filing_date": "2025-07-10",
     "form_type": "Form 4",
-    "created_at": "2025-12-22T20:58:31.733486"
+    "created_at": "2026-01-01T21:59:00.430654"
   },
   {
     "id": "DUFFIELD DAVID A_2025-07-08_12713.0",
@@ -1297,7 +1401,7 @@
     "total_value": 3030238.8975,
     "filing_date": "2025-07-10",
     "form_type": "Form 4",
-    "created_at": "2025-12-22T20:58:31.733503"
+    "created_at": "2026-01-01T21:59:00.430671"
   },
   {
     "id": "DUFFIELD DAVID A_2025-07-08_13864.0",
@@ -1310,7 +1414,7 @@
     "total_value": 3324674.5431999997,
     "filing_date": "2025-07-10",
     "form_type": "Form 4",
-    "created_at": "2025-12-22T20:58:31.733520"
+    "created_at": "2026-01-01T21:59:00.430686"
   },
   {
     "id": "DUFFIELD DAVID A_2025-07-08_24379.0",
@@ -1323,7 +1427,7 @@
     "total_value": 5863858.9289,
     "filing_date": "2025-07-10",
     "form_type": "Form 4",
-    "created_at": "2025-12-22T20:58:31.733535"
+    "created_at": "2026-01-01T21:59:00.430702"
   },
   {
     "id": "DUFFIELD DAVID A_2025-07-08_7157.0",
@@ -1336,7 +1440,7 @@
     "total_value": 1728940.1080999998,
     "filing_date": "2025-07-10",
     "form_type": "Form 4",
-    "created_at": "2025-12-22T20:58:31.733551"
+    "created_at": "2026-01-01T21:59:00.430717"
   },
   {
     "id": "DUFFIELD DAVID A_2025-07-08_800.0",
@@ -1349,7 +1453,7 @@
     "total_value": 193854.0,
     "filing_date": "2025-07-10",
     "form_type": "Form 4",
-    "created_at": "2025-12-22T20:58:31.733617"
+    "created_at": "2026-01-01T21:59:00.430732"
   },
   {
     "id": "Rowe Zane_2025-07-08_2100.0",
@@ -1362,7 +1466,7 @@
     "total_value": 499823.94,
     "filing_date": "2025-07-08",
     "form_type": "Form 4",
-    "created_at": "2025-12-22T20:58:32.962128"
+    "created_at": "2026-01-01T21:59:01.619405"
   },
   {
     "id": "Rowe Zane_2025-07-08_400.0",
@@ -1375,7 +1479,7 @@
     "total_value": 95546.28,
     "filing_date": "2025-07-08",
     "form_type": "Form 4",
-    "created_at": "2025-12-22T20:58:32.962139"
+    "created_at": "2026-01-01T21:59:01.619415"
   },
   {
     "id": "Rowe Zane_2025-07-08_2600.0",
@@ -1388,7 +1492,7 @@
     "total_value": 624849.16,
     "filing_date": "2025-07-08",
     "form_type": "Form 4",
-    "created_at": "2025-12-22T20:58:32.962149"
+    "created_at": "2026-01-01T21:59:01.619422"
   },
   {
     "id": "Rowe Zane_2025-07-08_700.0",
@@ -1401,7 +1505,7 @@
     "total_value": 168903.98,
     "filing_date": "2025-07-08",
     "form_type": "Form 4",
-    "created_at": "2025-12-22T20:58:32.962159"
+    "created_at": "2026-01-01T21:59:01.619429"
   },
   {
     "id": "Rowe Zane_2025-07-08_200.0",
@@ -1414,7 +1518,7 @@
     "total_value": 48442.0,
     "filing_date": "2025-07-08",
     "form_type": "Form 4",
-    "created_at": "2025-12-22T20:58:32.962168"
+    "created_at": "2026-01-01T21:59:01.619437"
   },
   {
     "id": "Rowe Zane_2025-07-05_9068.0",
@@ -1427,7 +1531,7 @@
     "total_value": 2192279.6799999997,
     "filing_date": "2025-07-08",
     "form_type": "Form 4",
-    "created_at": "2025-12-22T20:58:32.962112"
+    "created_at": "2026-01-01T21:59:01.619385"
   },
   {
     "id": "Sauer Richard Harry_2025-07-05_3458.0",
@@ -1440,7 +1544,7 @@
     "total_value": 836006.08,
     "filing_date": "2025-07-08",
     "form_type": "Form 4",
-    "created_at": "2025-12-22T20:58:34.107802"
+    "created_at": "2026-01-01T21:59:02.781853"
   },
   {
     "id": "Garfield Mark S._2025-07-05_618.0",
@@ -1453,7 +1557,7 @@
     "total_value": 149407.68,
     "filing_date": "2025-07-08",
     "form_type": "Form 4",
-    "created_at": "2025-12-22T20:58:35.297911"
+    "created_at": "2026-01-01T21:59:04.001277"
   },
   {
     "id": "BHUSRI ANEEL_2025-07-05_8484.0",
@@ -1466,7 +1570,7 @@
     "total_value": 2051091.8399999999,
     "filing_date": "2025-07-08",
     "form_type": "Form 4",
-    "created_at": "2025-12-22T20:58:36.512823"
+    "created_at": "2026-01-01T21:59:05.317742"
   },
   {
     "id": "Kazmaier Gerrit S_2025-07-05_2757.0",
@@ -1479,7 +1583,7 @@
     "total_value": 666532.32,
     "filing_date": "2025-07-08",
     "form_type": "Form 4",
-    "created_at": "2025-12-22T20:58:37.653945"
+    "created_at": "2026-01-01T21:59:06.455268"
   },
   {
     "id": "Eschenbach Carl M._2025-07-05_4571.0",
@@ -1492,7 +1596,7 @@
     "total_value": 1105084.96,
     "filing_date": "2025-07-08",
     "form_type": "Form 4",
-    "created_at": "2025-12-22T20:58:38.766171"
+    "created_at": "2026-01-01T21:59:07.597309"
   },
   {
     "id": "Eschenbach Carl M._2025-07-01_200.0",
@@ -1505,7 +1609,7 @@
     "total_value": 47407.0,
     "filing_date": "2025-07-03",
     "form_type": "Form 4",
-    "created_at": "2025-12-22T20:58:39.978534"
+    "created_at": "2026-01-01T21:59:08.904791"
   },
   {
     "id": "Eschenbach Carl M._2025-07-01_1319.0",
@@ -1518,7 +1622,7 @@
     "total_value": 314605.242,
     "filing_date": "2025-07-03",
     "form_type": "Form 4",
-    "created_at": "2025-12-22T20:58:39.978546"
+    "created_at": "2026-01-01T21:59:08.904805"
   },
   {
     "id": "Eschenbach Carl M._2025-07-01_1406.0",
@@ -1531,7 +1635,7 @@
     "total_value": 336357.38,
     "filing_date": "2025-07-03",
     "form_type": "Form 4",
-    "created_at": "2025-12-22T20:58:39.978554"
+    "created_at": "2026-01-01T21:59:08.904816"
   },
   {
     "id": "Eschenbach Carl M._2025-07-01_3325.0",
@@ -1544,7 +1648,7 @@
     "total_value": 798065.835,
     "filing_date": "2025-07-03",
     "form_type": "Form 4",
-    "created_at": "2025-12-22T20:58:39.978562"
+    "created_at": "2026-01-01T21:59:08.904823"
   },
   {
     "id": "DUFFIELD DAVID A_2025-07-01_72917.0",
@@ -1557,7 +1661,7 @@
     "total_value": 0.0,
     "filing_date": "2025-07-03",
     "form_type": "Form 4",
-    "created_at": "2025-12-22T20:58:41.187374"
+    "created_at": "2026-01-01T21:59:10.218473"
   },
   {
     "id": "DUFFIELD DAVID A_2025-07-01_2482.0",
@@ -1570,7 +1674,7 @@
     "total_value": 588481.4554,
     "filing_date": "2025-07-03",
     "form_type": "Form 4",
-    "created_at": "2025-12-22T20:58:41.187387"
+    "created_at": "2026-01-01T21:59:10.218486"
   },
   {
     "id": "DUFFIELD DAVID A_2025-07-01_15911.0",
@@ -1583,7 +1687,7 @@
     "total_value": 3790859.394,
     "filing_date": "2025-07-03",
     "form_type": "Form 4",
-    "created_at": "2025-12-22T20:58:41.187395"
+    "created_at": "2026-01-01T21:59:10.218494"
   },
   {
     "id": "DUFFIELD DAVID A_2025-07-01_46591.0",
@@ -1596,7 +1700,7 @@
     "total_value": 11138994.9164,
     "filing_date": "2025-07-03",
     "form_type": "Form 4",
-    "created_at": "2025-12-22T20:58:41.187403"
+    "created_at": "2026-01-01T21:59:10.218503"
   },
   {
     "id": "DUFFIELD DAVID A_2025-07-01_6620.0",
@@ -1609,7 +1713,7 @@
     "total_value": 1589690.3900000001,
     "filing_date": "2025-07-03",
     "form_type": "Form 4",
-    "created_at": "2025-12-22T20:58:41.187410"
+    "created_at": "2026-01-01T21:59:10.218510"
   },
   {
     "id": "DUFFIELD DAVID A_2025-07-01_1313.0",
@@ -1622,7 +1726,7 @@
     "total_value": 316149.6546,
     "filing_date": "2025-07-03",
     "form_type": "Form 4",
-    "created_at": "2025-12-22T20:58:41.187417"
+    "created_at": "2026-01-01T21:59:10.218518"
   },
   {
     "id": "STILL GEORGE J JR_2025-06-24_60000.0",
@@ -1635,7 +1739,7 @@
     "total_value": 0.0,
     "filing_date": "2025-06-26",
     "form_type": "Form 4",
-    "created_at": "2025-12-22T20:58:42.357588"
+    "created_at": "2026-01-01T21:59:11.461272"
   },
   {
     "id": "DUFFIELD DAVID A_2025-06-24_73971.0",
@@ -1648,7 +1752,7 @@
     "total_value": 0.0,
     "filing_date": "2025-06-26",
     "form_type": "Form 4",
-    "created_at": "2025-12-22T20:58:43.530607"
+    "created_at": "2026-01-01T21:59:12.711040"
   },
   {
     "id": "DUFFIELD DAVID A_2025-06-24_29828.0",
@@ -1661,7 +1765,7 @@
     "total_value": 7103767.8756,
     "filing_date": "2025-06-26",
     "form_type": "Form 4",
-    "created_at": "2025-12-22T20:58:43.530620"
+    "created_at": "2026-01-01T21:59:12.711056"
   },
   {
     "id": "DUFFIELD DAVID A_2025-06-24_42793.0",
@@ -1674,7 +1778,7 @@
     "total_value": 10226354.4718,
     "filing_date": "2025-06-26",
     "form_type": "Form 4",
-    "created_at": "2025-12-22T20:58:43.530628"
+    "created_at": "2026-01-01T21:59:12.711067"
   },
   {
     "id": "DUFFIELD DAVID A_2025-06-24_1350.0",
@@ -1687,7 +1791,7 @@
     "total_value": 323948.97,
     "filing_date": "2025-06-26",
     "form_type": "Form 4",
-    "created_at": "2025-12-22T20:58:43.530636"
+    "created_at": "2026-01-01T21:59:12.711076"
   },
   {
     "id": "DUFFIELD DAVID A_2025-06-17_71240.0",
@@ -1700,7 +1804,7 @@
     "total_value": 0.0,
     "filing_date": "2025-06-18",
     "form_type": "Form 4",
-    "created_at": "2025-12-22T20:58:44.742223"
+    "created_at": "2026-01-01T21:59:14.021529"
   },
   {
     "id": "DUFFIELD DAVID A_2025-06-17_27561.0",
@@ -1713,7 +1817,7 @@
     "total_value": 6692397.8493,
     "filing_date": "2025-06-18",
     "form_type": "Form 4",
-    "created_at": "2025-12-22T20:58:44.742230"
+    "created_at": "2026-01-01T21:59:14.021537"
   },
   {
     "id": "DUFFIELD DAVID A_2025-06-17_8663.0",
@@ -1726,7 +1830,7 @@
     "total_value": 2113057.3024999998,
     "filing_date": "2025-06-18",
     "form_type": "Form 4",
-    "created_at": "2025-12-22T20:58:44.742237"
+    "created_at": "2026-01-01T21:59:14.021544"
   },
   {
     "id": "DUFFIELD DAVID A_2025-06-17_12856.0",
@@ -1739,7 +1843,7 @@
     "total_value": 3147723.4631999996,
     "filing_date": "2025-06-18",
     "form_type": "Form 4",
-    "created_at": "2025-12-22T20:58:44.742245"
+    "created_at": "2026-01-01T21:59:14.021551"
   },
   {
     "id": "DUFFIELD DAVID A_2025-06-17_21560.0",
@@ -1752,7 +1856,7 @@
     "total_value": 5303415.04,
     "filing_date": "2025-06-18",
     "form_type": "Form 4",
-    "created_at": "2025-12-22T20:58:44.742252"
+    "created_at": "2026-01-01T21:59:14.021558"
   },
   {
     "id": "DUFFIELD DAVID A_2025-06-17_600.0",
@@ -1765,7 +1869,7 @@
     "total_value": 147888.0,
     "filing_date": "2025-06-18",
     "form_type": "Form 4",
-    "created_at": "2025-12-22T20:58:44.742259"
+    "created_at": "2026-01-01T21:59:14.021566"
   },
   {
     "id": "DUFFIELD DAVID A_2025-06-16_4230.0",
@@ -1778,7 +1882,7 @@
     "total_value": 1033756.5869999999,
     "filing_date": "2025-06-18",
     "form_type": "Form 4",
-    "created_at": "2025-12-22T20:58:44.742187"
+    "created_at": "2026-01-01T21:59:14.021492"
   },
   {
     "id": "DUFFIELD DAVID A_2025-06-16_6775.0",
@@ -1791,7 +1895,7 @@
     "total_value": 1661541.6500000001,
     "filing_date": "2025-06-18",
     "form_type": "Form 4",
-    "created_at": "2025-12-22T20:58:44.742200"
+    "created_at": "2026-01-01T21:59:14.021506"
   },
   {
     "id": "DUFFIELD DAVID A_2025-06-16_3330.0",
@@ -1804,7 +1908,7 @@
     "total_value": 820318.527,
     "filing_date": "2025-06-18",
     "form_type": "Form 4",
-    "created_at": "2025-12-22T20:58:44.742207"
+    "created_at": "2026-01-01T21:59:14.021514"
   },
   {
     "id": "DUFFIELD DAVID A_2025-06-16_665.0",
@@ -1817,7 +1921,7 @@
     "total_value": 164315.249,
     "filing_date": "2025-06-18",
     "form_type": "Form 4",
-    "created_at": "2025-12-22T20:58:44.742215"
+    "created_at": "2026-01-01T21:59:14.021521"
   },
   {
     "id": "STILL GEORGE J JR_2025-06-05_4733.0",
@@ -1830,7 +1934,7 @@
     "total_value": 1173302.1806,
     "filing_date": "2025-06-09",
     "form_type": "Form 4",
-    "created_at": "2025-12-22T20:58:45.882798"
+    "created_at": "2026-01-01T21:59:15.164813"
   },
   {
     "id": "STILL GEORGE J JR_2025-06-05_2067.0",
@@ -1843,7 +1947,7 @@
     "total_value": 514802.67929999996,
     "filing_date": "2025-06-09",
     "form_type": "Form 4",
-    "created_at": "2025-12-22T20:58:45.882823"
+    "created_at": "2026-01-01T21:59:15.164826"
   },
   {
     "id": "STILL GEORGE J JR_2025-06-05_700.0",
@@ -1856,7 +1960,7 @@
     "total_value": 174996.01,
     "filing_date": "2025-06-09",
     "form_type": "Form 4",
-    "created_at": "2025-12-22T20:58:45.882843"
+    "created_at": "2026-01-01T21:59:15.164834"
   },
   {
     "id": "Eschenbach Carl M._2025-06-05_11084.0",
@@ -1869,7 +1973,7 @@
     "total_value": 2765236.32,
     "filing_date": "2025-06-09",
     "form_type": "Form 4",
-    "created_at": "2025-12-22T20:58:47.062050"
+    "created_at": "2026-01-01T21:59:16.314991"
   },
   {
     "id": "Hawkins Mark J_2025-06-04_1820.0",
@@ -1882,7 +1986,7 @@
     "total_value": 0.0,
     "filing_date": "2025-06-05",
     "form_type": "Form 4",
-    "created_at": "2025-12-22T20:58:48.216199"
+    "created_at": "2026-01-01T21:59:17.436822"
   },
   {
     "id": "BOGAN THOMAS F_2025-06-04_1481.0",
@@ -1895,7 +1999,7 @@
     "total_value": 0.0,
     "filing_date": "2025-06-05",
     "form_type": "Form 4",
-    "created_at": "2025-12-22T20:58:49.389457"
+    "created_at": "2026-01-01T21:59:18.657580"
   },
   {
     "id": "Centoni Elizabeth_2025-06-04_1336.0",
@@ -1908,7 +2012,7 @@
     "total_value": 0.0,
     "filing_date": "2025-06-05",
     "form_type": "Form 4",
-    "created_at": "2025-12-22T20:58:50.520527"
+    "created_at": "2026-01-01T21:59:19.810973"
   },
   {
     "id": "Doughtie Lynne M_2025-06-04_1481.0",
@@ -1921,7 +2025,7 @@
     "total_value": 0.0,
     "filing_date": "2025-06-05",
     "form_type": "Form 4",
-    "created_at": "2025-12-22T20:58:51.699139"
+    "created_at": "2026-01-01T21:59:20.953739"
   },
   {
     "id": "MORRIS RHONDA J_2025-06-04_1336.0",
@@ -1934,7 +2038,7 @@
     "total_value": 0.0,
     "filing_date": "2025-06-05",
     "form_type": "Form 4",
-    "created_at": "2025-12-22T20:58:52.814427"
+    "created_at": "2026-01-01T21:59:22.141277"
   },
   {
     "id": "MCNAMARA MICHAEL M_2025-06-04_1578.0",
@@ -1947,7 +2051,7 @@
     "total_value": 0.0,
     "filing_date": "2025-06-05",
     "form_type": "Form 4",
-    "created_at": "2025-12-22T20:58:53.942859"
+    "created_at": "2026-01-01T21:59:23.282672"
   },
   {
     "id": "YANG JERRY_2025-06-04_1530.0",
@@ -1960,7 +2064,7 @@
     "total_value": 0.0,
     "filing_date": "2025-06-05",
     "form_type": "Form 4",
-    "created_at": "2025-12-22T20:58:55.142239"
+    "created_at": "2026-01-01T21:59:24.419811"
   },
   {
     "id": "STILL GEORGE J JR_2025-06-04_1530.0",
@@ -1973,7 +2077,7 @@
     "total_value": 0.0,
     "filing_date": "2025-06-05",
     "form_type": "Form 4",
-    "created_at": "2025-12-22T20:58:56.296084"
+    "created_at": "2026-01-01T21:59:25.657524"
   },
   {
     "id": "Frederick Wayne A.I._2025-06-04_1336.0",
@@ -1986,7 +2090,7 @@
     "total_value": 0.0,
     "filing_date": "2025-06-05",
     "form_type": "Form 4",
-    "created_at": "2025-12-22T20:58:57.453088"
+    "created_at": "2026-01-01T21:59:26.859820"
   },
   {
     "id": "Speiser Michael L_2025-06-04_1336.0",
@@ -1999,97 +2103,6 @@
     "total_value": 0.0,
     "filing_date": "2025-06-05",
     "form_type": "Form 4",
-    "created_at": "2025-12-22T20:58:58.600124"
-  },
-  {
-    "id": "DUFFIELD DAVID A_2025-06-02_70648.0",
-    "executive_name": "DUFFIELD DAVID A",
-    "executive_title": null,
-    "transaction_date": "2025-06-02",
-    "transaction_type": "Purchase",
-    "shares": 70648.0,
-    "price_per_share": 0.0,
-    "total_value": 0.0,
-    "filing_date": "2025-06-03",
-    "form_type": "Form 4",
-    "created_at": "2025-12-22T20:58:59.762002"
-  },
-  {
-    "id": "DUFFIELD DAVID A_2025-06-02_4000.0",
-    "executive_name": "DUFFIELD DAVID A",
-    "executive_title": null,
-    "transaction_date": "2025-06-02",
-    "transaction_type": "Sale",
-    "shares": 4000.0,
-    "price_per_share": 244.2789,
-    "total_value": 977115.6,
-    "filing_date": "2025-06-03",
-    "form_type": "Form 4",
-    "created_at": "2025-12-22T20:58:59.762018"
-  },
-  {
-    "id": "DUFFIELD DAVID A_2025-06-02_5972.0",
-    "executive_name": "DUFFIELD DAVID A",
-    "executive_title": null,
-    "transaction_date": "2025-06-02",
-    "transaction_type": "Sale",
-    "shares": 5972.0,
-    "price_per_share": 245.4273,
-    "total_value": 1465691.8356,
-    "filing_date": "2025-06-03",
-    "form_type": "Form 4",
-    "created_at": "2025-12-22T20:58:59.762028"
-  },
-  {
-    "id": "DUFFIELD DAVID A_2025-06-02_14085.0",
-    "executive_name": "DUFFIELD DAVID A",
-    "executive_title": null,
-    "transaction_date": "2025-06-02",
-    "transaction_type": "Sale",
-    "shares": 14085.0,
-    "price_per_share": 246.3035,
-    "total_value": 3469184.7975000003,
-    "filing_date": "2025-06-03",
-    "form_type": "Form 4",
-    "created_at": "2025-12-22T20:58:59.762038"
-  },
-  {
-    "id": "DUFFIELD DAVID A_2025-06-02_38764.0",
-    "executive_name": "DUFFIELD DAVID A",
-    "executive_title": null,
-    "transaction_date": "2025-06-02",
-    "transaction_type": "Sale",
-    "shares": 38764.0,
-    "price_per_share": 247.297,
-    "total_value": 9586220.908,
-    "filing_date": "2025-06-03",
-    "form_type": "Form 4",
-    "created_at": "2025-12-22T20:58:59.762048"
-  },
-  {
-    "id": "DUFFIELD DAVID A_2025-06-02_7827.0",
-    "executive_name": "DUFFIELD DAVID A",
-    "executive_title": null,
-    "transaction_date": "2025-06-02",
-    "transaction_type": "Sale",
-    "shares": 7827.0,
-    "price_per_share": 247.9518,
-    "total_value": 1940718.7386,
-    "filing_date": "2025-06-03",
-    "form_type": "Form 4",
-    "created_at": "2025-12-22T20:58:59.762058"
-  },
-  {
-    "id": "STILL GEORGE J JR_2025-05-28_40000.0",
-    "executive_name": "STILL GEORGE J JR",
-    "executive_title": "Executive",
-    "transaction_date": "2025-05-28",
-    "transaction_type": "Sale",
-    "shares": 40000.0,
-    "price_per_share": 0.0,
-    "total_value": 0.0,
-    "filing_date": "2025-05-30",
-    "form_type": "Form 4",
-    "created_at": "2025-12-22T20:59:00.898731"
+    "created_at": "2026-01-01T21:59:28.079329"
   }
 ]
